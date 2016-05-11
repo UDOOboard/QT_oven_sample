@@ -28,7 +28,7 @@ void FinestraS::paintEvent(QPaintEvent*)
     QPixmap ventola2("../ventola.png");
     QIcon ButtonIcon2(ventola2);
     ui->pushButton->setIcon(ButtonIcon2);
-    ui->pushButton->setIconSize(QSize(105,105));
+    ui->pushButton->setIconSize(QSize(98, 67));
 
     QPixmap grill("../grill.png");
     QIcon ButtonIcon3(grill);
