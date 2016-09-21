@@ -248,7 +248,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Temperatura (C°)</string>
+     <string>Temperature (C°)</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_7">

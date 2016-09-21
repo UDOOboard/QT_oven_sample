@@ -204,7 +204,7 @@ public:
         pushButton_3->setText(QString());
         pushButton_4->setText(QString());
         start->setText(QString());
-        label_6->setText(QApplication::translate("FinestraS", "Temperatura (C\302\260)", 0));
+        label_6->setText(QApplication::translate("FinestraS", "Temperature (C\302\260)", 0));
         label_7->setText(QApplication::translate("FinestraS", "OFF", 0));
         label_8->setText(QApplication::translate("FinestraS", "Ventilation:", 0));
         label_9->setText(QApplication::translate("FinestraS", "Oven heating:", 0));
