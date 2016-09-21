@@ -21,7 +21,7 @@ void FinestraS::paintEvent(QPaintEvent*)
         this->setStyleSheet("background-color: rgb(240,225,255);");
 
     QGraphicsScene *scene1 =new QGraphicsScene;
-    QPixmap m1("../temperatura.png");
+    QPixmap m1("../temperature.png");
     scene1->addPixmap(m1);
     ui->temperature->setScene(scene1);
 
